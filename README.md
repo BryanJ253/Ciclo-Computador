@@ -10,10 +10,10 @@ Para la realización del dispositivo se siguen las fases adecuadas para su desar
 
 Palabras clave: Bicicleta, actividad física, persona, deporte, tiempo, dispositivo.
 # Poster
-[![Poster.jpg](https://i.postimg.cc/YCWPmyCT/Poster.jpg)](https://postimg.cc/21CGsGvx)
+![](https://github.com/BryanJ253/Ciclo-Computador/blob/main/Evidencias/Poster.jpeg?raw=true)
 # Banner
 
-[![Ciclo-computador.jpg](https://i.postimg.cc/x8Qmt8vK/Ciclo-computador.jpg)](https://postimg.cc/vgPDmQSB)
+![](https://github.com/BryanJ253/Ciclo-Computador/blob/main/Evidencias/Banner.jpg?raw=true)
 
 # Video del CicloComputador
 ### En este video se abordan los siguientes aspectos:
