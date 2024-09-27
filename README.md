@@ -15,6 +15,15 @@ Palabras clave: Bicicleta, actividad física, persona, deporte, tiempo, disposit
 
 [![Ciclo-computador.jpg](https://i.postimg.cc/x8Qmt8vK/Ciclo-computador.jpg)](https://postimg.cc/vgPDmQSB)
 
+# Video del CicloComputador
+### En este video se abordan los siguientes aspectos:
+* La problemática
+* La solución planteada (los módulos usados)
+* El funcionamiento explicado tecnicamente
+* El funcionamiento del proyecto desde el punto de vista del usuario
+
+  
+[![Alt text](https://img.youtube.com/vi/PFSLYWNj0q4/0.jpg)](https://www.youtube.com/watch?v=PFSLYWNj0q4)
 
 # Objetivo general
 Realizar un dispositivo que sea funcional y accequible para un grupo grande de personas, y que este pueda ayudar a promover la actividad fisica en la poblacion.
