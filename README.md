@@ -40,7 +40,7 @@ Finalmente de decide implementar la segunda idea que tiene por nombre CicloCompu
 Con la idea en mente de lo que se quiere hacer se procede a comenzar a realizar unos diagramas para tener una idea mas compacta de como hacerlo, por lo que a continuacion se presenta el diagrama tecnologico realizado que nos ayuda a tener una idea basica de los modulos que se vn a usar para el desarrollo del dispositivo, y ademas de como se conectan estos, siendo principalmente dispositivos de entrada, que recopilan datos, son procesados a traves de un microcontrolador, y mostrados al usuario a traves de una pantalla.
 [![Ciclo-Computador.jpg](https://i.postimg.cc/hPMtCdFb/Ciclo-Computador.jpg)](https://postimg.cc/LnYS5h8n)
 
-##Impactos ambientales
+## Impactos ambientales
 Nuestro dispositivo tiene un impacto ambiental leve debido a su fabricacion ya que se compone de distintos modulos electronicos, y una caja de carton reciclada que disminuye el impacto ambiental del dispositivo. Ademas tiene un impacto en el ambiente positivo, ya que al promover el uso de la bicicleta disminuye el uso de automoviles, motos entre otros medio de transporte que contaminan el medio ambiente.
 # Diseño de implementacion del case
 Decidimos implementar un case con bajo impacto ambiental, ya que proyectamos nuestro proyecto que genere un impacto positivo en la vida de las personas, esto a traves de la pomocion del ejercicio fisico, y en cuanto al case del dispositivo se implemento un case en carton reciclado, donde pondremos nuestro proyecto inicialmente, se busca posteriormente implementar un case que tambien sea de bajo impacto ambiental, y sea mucho mas resistente para que pueda resistir posibles golpes en una posible caida.
