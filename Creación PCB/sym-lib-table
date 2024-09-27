@@ -1,7 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "laesp32")(type "KiCad")(uri "${KIPRJMOD}/libs/ESP32-DEVKIT-V1/ESP32-DEVKIT-V1.kicad_sym")(options "")(descr ""))
-  (lib (name "giroscopio")(type "KiCad")(uri "${KIPRJMOD}/libs/MPU-6050T/MPU-6050T.kicad_sym")(options "")(descr ""))
-  (lib (name "reloj")(type "KiCad")(uri "${KIPRJMOD}/libs/TC00500/TC00500.kicad_sym")(options "")(descr ""))
-  (lib (name "baterias")(type "KiCad")(uri "${KIPRJMOD}/libs/kicad-cd42-lib-main/kicad-cd42-lib-main/cd42.kicad_sym")(options "")(descr ""))
-)
